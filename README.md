@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Shopping cart snippet** made with Bootstrap 4. It is fully responsive, and has a very clean design that will look great on any online store. The snippet features large product descriptions with specs, photos, and prices on the left, and a summary of all the costs on the right. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/shopping-cart)
+**Shopping cart snippet** made with Bootstrap 4. It is fully responsive, and has a very clean design that will look great on any online store. The snippet features large product descriptions with specs, photos, and prices on the left, and a summary of all the costs on the right. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Shopping Cart](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/shopping-cart) 
+[![Shopping Cart](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
